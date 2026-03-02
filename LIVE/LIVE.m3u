@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz"
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/DW.png" group-title="咖眼(看世界)",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDE INFO" tvg-name="TV5MONDE INFO" tvg-logo="https://raw.githubusercontent.com/JohnLeongOBG/World-Eye/main/TV-Logo/tv5monde-info.png" group-title="咖眼(看法国)",TV5MONDE-INFO
@@ -781,6 +782,7 @@ http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="咖眼浙江(超高清)",山东卫视4K
 http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
+
 
 
 
