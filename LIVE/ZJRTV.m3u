@@ -431,7 +431,6 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236948/1.m3u8?fmt=t
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236946/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="看4K-浙江",江苏卫视4K
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236950/1.m3u8?fmt=ts2hls
-// 待修改
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="CCTV-浙江",CCTV1
 http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="CCTV-浙江",CCTV2
@@ -518,7 +517,7 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="ZJJL" tvg-name="之江纪录" tvg-logo="https://img.iptv2022.com/logo/zjjl.png" group-title="看浙江-浙江",之江纪录
 http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="DFWS" tvg-name="东方卫视" tvg-logo="https://img.iptv2022.com/logo/dfws.png" "地方卫视-浙江",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://img.iptv2022.com/logo/dfws.png" "地方卫视-浙江",东方卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="HNWS" tvg-name="湖南卫视" tvg-logo="https://img.iptv2022.com/logo/hnws.png" group-title="地方卫视-浙江",湖南卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
