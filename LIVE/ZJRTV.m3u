@@ -450,7 +450,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://img.iptv2022.com/logo/cctv8.png" group-title="CCTV-浙江",CCTV8
 http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CTV9" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="CCTV-浙江",CCTV9
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="CCTV-浙江",CCTV9
 http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://img.iptv2022.com/logo/cctv10.png" group-title="CCTV-浙江",CCTV10
 http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
