@@ -1,0 +1,884 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz"
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="地方卫视-浙江",陕西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="CCTV-浙江",CCTV15
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228281//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="宁夏卫视卫视" tvg-name="宁夏卫视" tvg-logo="" group-title="地方卫视-浙江",宁夏卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228284//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="" group-title="地方卫视-浙江",CETV1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228285//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="" group-title="地方卫视-浙江",青海卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228287//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="地方卫视-浙江",甘肃卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228288//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="" group-title="地方卫视-浙江",山西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228291//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="" group-title="地方卫视-浙江",江西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228293//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="地方卫视-浙江",黑龙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228302//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="地方卫视-浙江",山东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228308//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="CCTV-浙江",CCTV12
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228312//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="地方卫视-浙江",深圳卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228314//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="" group-title="地方卫视-浙江",辽宁卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228317//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="CCTV-浙江",CCTV1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228318//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="地方卫视-浙江",天津卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228320//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="地方卫视-浙江",北京卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228321//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="地方卫视-浙江",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228324//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="" group-title="地方卫视-浙江",新疆卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228326//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="CCTV-浙江",CCTV10
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228327//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="地方卫视-浙江",广东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228329//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="CCTV-浙江",CCTV7
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228330//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="地方卫视-浙江",安徽卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228332//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="CCTV-浙江",CCTV14
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228335//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="地方卫视-浙江",湖南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228336//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="" group-title="地方卫视-浙江",内蒙古卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="CCTV-浙江",CCTV9
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="地方卫视-浙江",西藏卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="CCTV-浙江-浙江",CCTV2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="地方卫视-浙江",江苏卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="地方卫视-浙江",东方卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228354//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="地方卫视-浙江",湖北卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228357//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="" group-title="青少频道-浙江",金鹰卡通
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228362//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="亚洲影院" tvg-name="亚洲影院" tvg-logo="" group-title="移动限定-浙江",亚洲影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="CCTV-浙江",CCTV5+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228372//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="" group-title="青少频道-浙江",卡酷少儿
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228375//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="" group-title="青少频道-浙江",优漫卡通
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228378//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="欧美影院" tvg-name="欧美影院" tvg-logo="" group-title="移动限定-浙江",欧美影院
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="" group-title="移动限定-浙江",少儿动漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228387//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="" group-title="CCTV-浙江",CGTN
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228416//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="" group-title="移动限定-浙江",兵团卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228419//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="CCTV-浙江",CCTV2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228482//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="" group-title="CCTV-浙江",CCTV12
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228485//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="" group-title="CCTV-浙江",CCTV14
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228488//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="地方卫视-浙江",江苏卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228494//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="" group-title="地方卫视-浙江",深圳卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228497//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="" group-title="地方卫视-浙江",北京卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228500//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="" group-title="地方卫视-浙江",天津卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228503//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="CCTV-浙江",CCTV1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228504//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="" group-title="地方卫视-浙江",安徽卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228506//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="" group-title="CCTV-浙江",CCTV7
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228507//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="" group-title="地方卫视-浙江",黑龙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228509//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="" group-title="CCTV-浙江",CCTV9
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228510//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="" group-title="地方卫视-浙江",湖北卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228512//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="" group-title="CCTV-浙江",CCTV10
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228513//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="" group-title="地方卫视-浙江",山东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228515//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="" group-title="地方卫视-浙江",湖南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228516//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="地方卫视-浙江",东方卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228519//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="" group-title="地方卫视-浙江",广东卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228522//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="电子竞技" tvg-name="电子竞技" tvg-logo="" group-title="移动限定-浙江",电子竞技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228572//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="" group-title="移动限定-浙江",高清娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228575//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="漫游世界" tvg-name="漫游世界" tvg-logo="" group-title="移动限定-浙江",漫游世界
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228581//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="" group-title="青少频道-浙江",嘉佳卡通
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228593//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="" group-title="移动限定-浙江",四海钓鱼
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228662//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="" group-title="看4K-浙江",CCTV4k
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="优优宝贝频道" tvg-name="优优宝贝频道" tvg-logo="" group-title="青少频道-浙江",优优宝贝频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229380//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="移动高清电视正在热播" tvg-name="移动高清电视正在热播" tvg-logo="" group-title="移动限定-浙江",移动高清电视正在热播
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229434//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="" group-title="CCTV-浙江",CCTV5+
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229684//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="CCTV-浙江",CCTV4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229749//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="" group-title="CCTV-浙江",CCTV17
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229762//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="Y+移动高清电视正在热播" tvg-name="Y+移动高清电视正在热播" tvg-logo="" group-title="移动限定-浙江",Y+移动高清电视正在热播  
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT爱浪漫" tvg-name="I HOT爱浪漫" tvg-logo="" group-title="移动限定-浙江",I HOT爱浪漫
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT爱院线" tvg-name="I HOT爱院线" tvg-logo="" group-title="移动限定-浙江",I HOT爱院线
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT爱喜剧" tvg-name="I HOT爱喜剧" tvg-logo="" group-title="移动限定-浙江",I HOT爱喜剧
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT爱科幻" tvg-name="I HOT爱科幻" tvg-logo="" group-title="移动限定-浙江",I HOT爱科幻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="CCTV-浙江",CCTV15
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230658//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="CCTV-浙江",CCTV13
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="" group-title="CCTV-浙江",CCTV13
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231193//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="" group-title="地方卫视-浙江",东南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231261//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="" group-title="地方卫视-浙江",河南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231264//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="" group-title="地方卫视-浙江",贵州卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231267//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="地方卫视-浙江",河北卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231270//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="地方卫视-浙江",吉林卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231289//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="地方卫视-浙江",广西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231292//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="地方卫视-浙江",四川卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231298//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="精品剧场" tvg-name="精品剧场" tvg-logo="" group-title="移动限定-浙江",精品剧场
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231330//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="探索纪实" tvg-name="探索纪实" tvg-logo="" group-title="移动限定-浙江",探索纪实
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221231385//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="CCTV-浙江",CCTV11
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232449//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="CCTV-浙江",CCTV15
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232504//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="" group-title="CCTV-浙江",CCTV3
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232596//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="" group-title="CCTV-浙江",CCTV6
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232599//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="" group-title="移动限定-浙江",睛彩竞技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232629//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV高尔夫.网球" tvg-name="CCTV高尔夫.网球" tvg-logo="" group-title="CCTV-浙江",CCTV高尔夫.网球
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232630//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="" group-title="地方卫视-浙江",重庆卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232642//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="" group-title="CCTV-浙江",CCTV8
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232645//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="" group-title="CCTV-浙江",CCTV5
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232648//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="" group-title="移动限定-浙江",睛彩篮球
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232657//index.m3u8?fmt=ts2hls   
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="" group-title="地方卫视-浙江",云南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232675//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="" group-title="CCTV-浙江",CCTV11
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232681//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="地方卫视-浙江",海南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232687//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="" group-title="CCTV-浙江",CCTV16
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232705//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="" group-title="CCTV-浙江",CCTV4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232759//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="" group-title="地方卫视-浙江",四川卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232761//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="" group-title="地方卫视-浙江",河北卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232762//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="" group-title="地方卫视-浙江",吉林卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232764//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="" group-title="地方卫视-浙江",海南卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232767//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="" group-title="地方卫视-浙江",广西卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232770//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江6频道" tvg-name="浙江6频道" tvg-logo="" group-title="看浙江-浙江",浙江6频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江教育影视" tvg-name="浙江教育影视" tvg-logo="" group-title="看浙江-浙江",浙江教育影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232999//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江教育影视" tvg-name="浙江教育影视" tvg-logo="" group-title="看浙江-浙江",浙江教育影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江钱江频道" tvg-name="浙江钱江频道" tvg-logo="" group-title="看浙江-浙江",浙江钱江频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="" group-title="看浙江-浙江",浙江经济生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="看浙江-浙江",浙江少儿
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="" group-title="看浙江-浙江",浙江少儿
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233034//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江6频道" tvg-name="浙江6频道" tvg-logo="" group-title="看浙江-浙江",浙江6频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233037//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江钱江频道" tvg-name="浙江钱江频道" tvg-logo="" group-title="看浙江-浙江",浙江钱江频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233040//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="" group-title="地方卫视-浙江",浙江卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233043//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="" group-title="看浙江-浙江",浙江经济生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233046//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="" group-title="看浙江-浙江",浙江新闻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233049//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="" group-title="看浙江-浙江",浙江新闻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="" group-title="CCTV-浙江",CCTV16
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233320//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="" group-title="地方卫视-浙江",CETV2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233746//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="好易购" tvg-name="好易购" tvg-logo="" group-title="看浙江-浙江",好易购
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233800//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="好易购" tvg-name="好易购" tvg-logo="" group-title="看浙江-浙江",好易购
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233803//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="" group-title="看浙江-浙江",金华教育科技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234568//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华新闻综合" tvg-name="金华新闻综合" tvg-logo="" group-title="看浙江-浙江",金华新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234612//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华公共频道" tvg-name="金华公共频道" tvg-logo="" group-title="看浙江-浙江",金华公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221234615//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="" group-title="地方卫视-浙江",三沙卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235392//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN 俄语" tvg-name="CGTN 俄语" tvg-logo="" group-title="CCTV-浙江",CGTN 俄语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235403//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN 阿语" tvg-name="CGTN 阿语" tvg-logo="" group-title="CCTV-浙江",CGTN 阿语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235408//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN 法语" tvg-name="CGTN 法语" tvg-logo="" group-title="CCTV-浙江",CGTN 法语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235412//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CGTN 西班牙语" tvg-name="CGTN 西班牙语" tvg-logo="" group-title="CCTV-浙江",CGTN 西班牙语
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235414//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山公共频道" tvg-name="舟山公共频道" tvg-logo="" group-title="看浙江-浙江",舟山公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235445//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴文化影视频道" tvg-name="嘉兴文化影视频道" tvg-logo="" group-title="看浙江-浙江",嘉兴文化影视频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235447//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山新闻综合频道" tvg-name="舟山新闻综合频道" tvg-logo="" group-title="看浙江-浙江",舟山新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235449//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="看浙江-浙江",嘉兴新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235458//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴公共频道" tvg-name="嘉兴公共频道" tvg-logo="" group-title="看浙江-浙江",嘉兴公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235460//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丽水新闻综合频道" tvg-name="丽水新闻综合频道" tvg-logo="" group-title="看浙江-浙江",丽水新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235523//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丽水公共频道" tvg-name="丽水公共频道" tvg-logo="" group-title="看浙江-浙江",丽水公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235524//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州公共频道" tvg-name="湖州公共频道" tvg-logo="" group-title="看浙江-浙江",湖州公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235526//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="" group-title="看浙江-浙江",湖州新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235527//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="" group-title="看浙江-浙江",丽水新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235528//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州文化娱乐" tvg-name="湖州文化娱乐" tvg-logo="" group-title="看浙江-浙江",湖州文化娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235529//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="" group-title="地方卫视-浙江",CETV4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235543//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-1" tvg-name="NBTV-1" tvg-logo="" group-title="看浙江-浙江",NBTV-1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235593//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-3" tvg-name="NBTV-3" tvg-logo="" group-title="看浙江-浙江",NBTV-3
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235595//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-4" tvg-name="NBTV-4" tvg-logo="" group-title="看浙江-浙江",NBTV-4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235597//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I  HOT  爱海淘" tvg-name="I  HOT  爱海淘" tvg-logo="" group-title="移动限定-浙江",I  HOT  爱海淘
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235603//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-1" tvg-name="NBTV-1" tvg-logo="" group-title="看浙江-浙江",NBTV-1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235604//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-2" tvg-name="NBTV-2" tvg-logo="" group-title="看浙江-浙江",NBTV-2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235606//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-2" tvg-name="NBTV-2" tvg-logo="" group-title="看浙江-浙江",NBTV-2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235608//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-3" tvg-name="NBTV-3" tvg-logo="" group-title="看浙江-浙江",NBTV-3
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235612//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-4" tvg-name="NBTV-4" tvg-logo="" group-title="看浙江-浙江",NBTV-4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235614//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT  爱幼教" tvg-name="I HOT  爱幼教" tvg-logo="" group-title="移动限定-浙江",I HOT  爱幼教
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235622//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT  爱玩具" tvg-name="I HOT  爱玩具" tvg-logo="" group-title="移动限定-浙江",I HOT  爱玩具
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235626//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华新闻综合频道" tvg-name="金华新闻综合频道" tvg-logo="" group-title="看浙江-浙江",金华新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236295//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华公共频道" tvg-name="金华公共频道" tvg-logo="" group-title="看浙江-浙江",金华公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236297//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="温州新闻综合频道" tvg-name="温州新闻综合频道" tvg-logo="" group-title="看浙江-浙江",温州新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236328//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="" group-title="看浙江-浙江",金华教育科技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236330//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山公共频道" tvg-name="舟山公共频道" tvg-logo="" group-title="看浙江-浙江",舟山公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236401//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="" group-title="地方卫视-浙江",重温经典频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236434//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="重温经典频道" tvg-name="重温经典频道" tvg-logo="" group-title="地方卫视-浙江",重温经典频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山新闻综合" tvg-name="舟山新闻综合" tvg-logo="" group-title="看浙江-浙江",舟山新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236452//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="衢州二套公共频道" tvg-name="衢州二套公共频道" tvg-logo="" group-title="看浙江-浙江",衢州二套公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236511//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="CCTV-浙江",CCTV1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236537//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="" group-title="CCTV-浙江",CCTV1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236539//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴公共频道" tvg-name="嘉兴公共频道" tvg-logo="" group-title="看浙江-浙江",嘉兴公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236553//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="衢州一套新闻综合" tvg-name="衢州一套新闻综合" tvg-logo="" group-title="看浙江-浙江",衢州一套新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236554//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山" tvg-name="舟山" tvg-logo="" group-title="看浙江-浙江",舟山
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236558//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="舟山" tvg-name="舟山" tvg-logo="" group-title="看浙江-浙江",舟山
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236560//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="测试频道1" tvg-name="测试频道1" tvg-logo="" group-title="测试频道-浙江",测试频道1
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236580//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="测试频道2" tvg-name="测试频道2" tvg-logo="" group-title="测试频道-浙江",测试频道2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236582//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT爱旅行" tvg-name="I HOT爱旅行" tvg-logo="" group-title="移动限定-浙江",I HOT爱旅行
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236591//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴文化影视" tvg-name="嘉兴文化影视" tvg-logo="" group-title="看浙江-浙江",嘉兴文化影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236592//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT 爱历史" tvg-name="I HOT 爱历史" tvg-logo="" group-title="移动限定-浙江",I HOT 爱历史
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236593//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="看浙江-浙江",嘉兴新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236594//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT  爱体育" tvg-name="I HOT  爱体育" tvg-logo="" group-title="移动限定-浙江",I HOT  爱体育
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236595//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="" group-title="看浙江-浙江",衢州二套
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236597//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="温州新闻综合频道" tvg-name="温州新闻综合频道" tvg-logo="" group-title="看浙江-浙江",温州新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236599//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华新闻综合频道" tvg-name="金华新闻综合频道" tvg-logo="" group-title="看浙江-浙江",金华新闻综合频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236601//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴文化影视" tvg-name="嘉兴文化影视" tvg-logo="" group-title="看浙江-浙江",嘉兴文化影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236603//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华公共频道" tvg-name="金华公共频道" tvg-logo="" group-title="看浙江-浙江",金华公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236605//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-1" tvg-name="NBTV-1" tvg-logo="" group-title="看浙江-浙江",NBTV-1
+http://3hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236607//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-4" tvg-name="NBTV-4" tvg-logo="" group-title="看浙江-浙江",NBTV-4
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236609//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-3" tvg-name="NBTV-3" tvg-logo="" group-title="看浙江-浙江",NBTV-3
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236611//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="NBTV-2" tvg-name="NBTV-2" tvg-logo="" group-title="看浙江-浙江",NBTV-2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236613//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丽水公共" tvg-name="丽水公共" tvg-logo="" group-title="看浙江-浙江",丽水公共
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236615//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州文化娱乐" tvg-name="湖州文化娱乐" tvg-logo="" group-title="看浙江-浙江",湖州文化娱乐
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236617//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="" group-title="地方卫视-浙江",甘肃卫视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236626//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT  爱谍战" tvg-name="I HOT  爱谍战" tvg-logo="" group-title="移动限定-浙江",I HOT  爱谍战
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236648//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="小移直播间" tvg-name="小移直播间" tvg-logo="" group-title="移动限定-浙江",小移直播间
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236651//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT  爱悬疑" tvg-name="I HOT  爱悬疑" tvg-logo="" group-title="移动限定-浙江",I HOT  爱悬疑
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236652//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="I HOT 爱公共汽车" tvg-name="I HOT 爱公共汽车" tvg-logo="" group-title="移动限定-浙江",I HOT 爱公共汽车
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236656//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="" group-title="看浙江-浙江",衢州一套
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236658//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="金华教育科技" tvg-name="金华教育科技" tvg-logo="" group-title="看浙江-浙江",金华教育科技
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236660//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴新闻综合" tvg-name="嘉兴新闻综合" tvg-logo="" group-title="看浙江-浙江",嘉兴新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236662//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="嘉兴公共频道" tvg-name="嘉兴公共频道" tvg-logo="" group-title="看浙江-浙江",嘉兴公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236664//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="丽水新闻综合" tvg-name="丽水新闻综合" tvg-logo="" group-title="看浙江-浙江",丽水新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236670//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州公共频道" tvg-name="湖州公共频道" tvg-logo="" group-title="看浙江-浙江",湖州公共频道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236672//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖州新闻综合" tvg-name="湖州新闻综合" tvg-logo="" group-title="看浙江-浙江",湖州新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236674//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="绍兴新闻综合" tvg-name="绍兴新闻综合" tvg-logo="" group-title="看浙江-浙江",绍兴新闻综合
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236685//index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="华数影视4K" tvg-name="华数影视4K" tvg-logo="" group-title="看4K-浙江",华数影视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236683/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="" group-title="看4K-浙江",CCTV4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236847/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="" group-title="看4K-浙江",深圳卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236849/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="" group-title="看4K-浙江",四川卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236851/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="看4K-浙江",湖南卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236853/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="求索4K" tvg-name="求索4K" tvg-logo="" group-title="看4K-浙江",求索4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236855/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="" group-title="看4K-浙江",北京卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236938/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV16-4K" tvg-name="CCTV16-4K" tvg-logo="" group-title="看4K-浙江",CCTV16-4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236940/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="" group-title="看4K-浙江",广东卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236942/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="看4K-浙江",浙江卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236944/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="" group-title="看4K-浙江",东方卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236948/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="看4K-浙江",山东卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236946/1.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="看4K-浙江",江苏卫视4K
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236950/1.m3u8?fmt=ts2hls
+// 待修改
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://img.iptv2022.com/logo/cctv1.png" group-title="CCTV-浙江",CCTV1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://img.iptv2022.com/logo/cctv2.png" group-title="CCTV-浙江",CCTV2
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://img.iptv2022.com/logo/cctv3.png" group-title="CCTV-浙江",CCTV3
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://img.iptv2022.com/logo/cctv4.png" group-title="CCTV-浙江",CCTV4
+http://124.90.44.40:6060/010/2/00000009000000060000000000002077/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://img.iptv2022.com/logo/cctv5.png" group-title="CCTV-浙江",CCTV5
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://img.iptv2022.com/logo/cctv5+.png" group-title="CCTV-浙江",CCTV5+
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://img.iptv2022.com/logo/cctv6.png" group-title="CCTV-浙江",CCTV6
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://img.iptv2022.com/logo/cctv7.png" group-title="CCTV-浙江",CCTV7
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://img.iptv2022.com/logo/cctv8.png" group-title="CCTV-浙江",CCTV8
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CTV9" tvg-logo="https://img.iptv2022.com/logo/cctv9.png" group-title="CCTV-浙江",CCTV9
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://img.iptv2022.com/logo/cctv10.png" group-title="CCTV-浙江",CCTV10
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://img.iptv2022.com/logo/cctv11.png" group-title="CCTV-浙江",CCTV11
+http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://img.iptv2022.com/logo/cctv12.png" group-title="CCTV-浙江",CCTV12
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://img.iptv2022.com/logo/cctv13.png" group-title="CCTV-浙江",CCTV13
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://img.iptv2022.com/logo/cctv14.png" group-title="CCTV-浙江",CCTV14
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://img.iptv2022.com/logo/cctv15.png" group-title="CCTV-浙江",CCTV15
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://img.iptv2022.com/logo/cctv17.png" group-title="CCTV-浙江",CCTV17
+http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://img.iptv2022.com/logo/cctv16.png" group-title="CCTV-浙江",CCTV16
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://img.iptv2022.com/logo/cetv1.png" group-title="地方卫视-浙江",CETV1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://img.iptv2022.com/logo/cetv4.png" group-title="地方卫视-浙江",CETV4
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJWS" tvg-name="浙江卫视" tvg-logo="https://img.iptv2022.com/logo/zjws.png" group-title="看浙江-浙江",浙江卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="QJPD" tvg-name="钱江频道" tvg-logo="https://img.iptv2022.com/logo/qjpd.png" group-title="看浙江-浙江",钱江频道
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJJSPD" tvg-name="浙江经视" tvg-logo="https://img.iptv2022.com/logo/zjjspd.png" group-title="看浙江-浙江",浙江经视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000572/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JKYS" tvg-name="教科影视" tvg-logo="https://img.iptv2022.com/logo/jkys.png" group-title="看浙江-浙江",教科影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJXW" tvg-name="浙江新闻" tvg-logo="https://img.iptv2022.com/logo/zjxw.png" group-title="看浙江-浙江",浙江新闻
+http://124.90.44.40:6060/010/2/00000001000000060000000000000579/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="MSXX" tvg-name="民生休闲" tvg-logo="https://img.iptv2022.com/logo/msxx.png" group-title="看浙江-浙江",民生休闲
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJSE" tvg-name="浙江少儿" tvg-logo="https://img.iptv2022.com/logo/zjse.png" group-title="看浙江-浙江",浙江少儿
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HYG1" tvg-name="好易购1" tvg-logo="https://img.iptv2022.com/logo/hyg1.png" group-title="看浙江-浙江",好易购1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000794/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HZZH" tvg-name="杭州综合" tvg-logo="https://img.iptv2022.com/logo/hzzh.png" group-title="看浙江-浙江",杭州综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HXMZ" tvg-name="西湖明珠" tvg-logo="https://img.iptv2022.com/logo/hxmz.png" group-title="看浙江-浙江",西湖明珠
+http://124.90.44.40:6060/010/2/00000001000000060000000000000783/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HZSH" tvg-name="杭州生活" tvg-logo="https://img.iptv2022.com/logo/hzsh.png" group-title="看浙江-浙江",杭州生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HZYS" tvg-name="杭州影视" tvg-logo="https://img.iptv2022.com/logo/hzys.png" group-title="看浙江-浙江",杭州影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="QSTY" tvg-name="青少体育" tvg-logo="https://img.iptv2022.com/logo/qsty.png" group-title="看浙江-浙江",青少体育
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HZDS" tvg-name="杭州导视" tvg-logo="https://img.iptv2022.com/logo/hzds.png" group-title="看浙江-浙江",杭州导视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NBZH" tvg-name="宁波综合" tvg-logo="https://img.iptv2022.com/logo/nbzh.png" group-title="看浙江-浙江",宁波综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NBSH" tvg-name="宁波生活" tvg-logo="https://img.iptv2022.com/logo/nbsh.png" group-title="看浙江-浙江",宁波生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NBDS" tvg-name="宁波都市" tvg-logo="https://img.iptv2022.com/logo/nbds.png" group-title="看浙江-浙江",宁波都市
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NBYS" tvg-name="宁波影视" tvg-logo="https://img.iptv2022.com/logo/nbys.png" group-title="看浙江-浙江",宁波影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="WZ1" tvg-name="温州一套" tvg-logo="https://img.iptv2022.com/logo/wz1.png" group-title="看浙江-浙江",温州一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="QZ1" tvg-name="衢州一套" tvg-logo="https://img.iptv2022.com/logo/qz1.png" group-title="看浙江-浙江",衢州一套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="QZ2" tvg-name="衢州二套" tvg-logo="https://img.iptv2022.com/logo/qz2.png" group-title="看浙江-浙江",衢州二套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SX1" tvg-name="绍兴一套" tvg-logo="https://img.iptv2022.com/logo/sx1.png" group-title="看浙江-浙江",绍兴一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJJL" tvg-name="之江纪录" tvg-logo="https://img.iptv2022.com/logo/zjjl.png" group-title="看浙江-浙江",之江纪录
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="DFWS" tvg-name="东方卫视" tvg-logo="https://img.iptv2022.com/logo/dfws.png" "地方卫视-浙江",东方卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HNWS" tvg-name="湖南卫视" tvg-logo="https://img.iptv2022.com/logo/hnws.png" group-title="地方卫视-浙江",湖南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="BJWS" tvg-name="北京卫视" tvg-logo="https://img.iptv2022.com/logo/bjws.png" group-title="地方卫视-浙江",北京卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000449/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JSWS" tvg-name="江苏卫视" tvg-logo="https://img.iptv2022.com/logo/jsws.png" group-title="地方卫视-浙江",江苏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000450/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="AHWS" tvg-name="安徽卫视" tvg-logo="https://img.iptv2022.com/logo/ahws.png" group-title="地方卫视-浙江",安徽卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000459/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SZWS" tvg-name="深圳卫视" tvg-logo="https://img.iptv2022.com/logo/szws.png" group-title="地方卫视-浙江",深圳卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000393/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="TJWS" tvg-name="天津卫视" tvg-logo="https://img.iptv2022.com/logo/tjws.png" group-title="地方卫视-浙江",天津卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000365/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CQWS" tvg-name="重庆卫视" tvg-logo="https://img.iptv2022.com/logo/cqws.png" group-title="地方卫视-浙江",重庆卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000585/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HNWS2" tvg-name="河南卫视" tvg-logo="https://img.iptv2022.com/logo/hnws2.png" group-title="地方卫视-浙江",河南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000586/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="GDWS" tvg-name="广东卫视" tvg-logo="https://img.iptv2022.com/logo/gdws.png" group-title="地方卫视-浙江",广东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000395/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SDWS" tvg-name="山东卫视" tvg-logo="https://img.iptv2022.com/logo/sdws.png" group-title="地方卫视-浙江",山东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000436/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JXWS" tvg-name="江西卫视" tvg-logo="https://img.iptv2022.com/logo/jxws.png" group-title="地方卫视-浙江",江西卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000587/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="GZWS" tvg-name="贵州卫视" tvg-logo="https://img.iptv2022.com/logo/gzws.png" group-title="地方卫视-浙江",贵州卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000584/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SCWS" tvg-name="四川卫视" tvg-logo="https://img.iptv2022.com/logo/scws.png" group-title="地方卫视-浙江",四川卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000581/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HBWS" tvg-name="河北卫视" tvg-logo="https://img.iptv2022.com/logo/hbws.png" group-title="地方卫视-浙江",河北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000582/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="DNWS" tvg-name="东南卫视" tvg-logo="https://img.iptv2022.com/logo/dnws.png" group-title="地方卫视-浙江",东南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000588/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HUBWS" tvg-name="湖北卫视" tvg-logo="https://img.iptv2022.com/logo/hubws.png" group-title="地方卫视-浙江",湖北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000461/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LNWS" tvg-name="辽宁卫视" tvg-logo="https://img.iptv2022.com/logo/lnws.png" group-title="地方卫视-浙江",辽宁卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000583/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HLJ" tvg-name="黑龙江卫视" tvg-logo="https://img.iptv2022.com/logo/hljws.png" group-title="地方卫视-浙江",黑龙江卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000462/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="YNWS" tvg-name="云南卫视" tvg-logo="https://img.iptv2022.com/logo/ynws.png" group-title="地方卫视-浙江",云南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776036/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HINWS" tvg-name="海南卫视" tvg-logo="https://img.iptv2022.com/logo/hinws.png" group-title="地方卫视-浙江",海南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776012/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="QHWS" tvg-name="青海卫视" tvg-logo="https://img.iptv2022.com/logo/qhws.png" group-title="地方卫视-浙江",青海卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002775980/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="XZWS" tvg-name="西藏卫视" tvg-logo="https://img.iptv2022.com/logo/xzws.png" group-title="地方卫视-浙江",西藏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000390/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SXWS" tvg-name="陕西卫视" tvg-logo="https://img.iptv2022.com/logo/sxws.png" group-title="地方卫视-浙江",陕西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776000/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="BTWS" tvg-name="兵团卫视" tvg-logo="https://img.iptv2022.com/logo/btws.png" group-title="地方卫视-浙江",兵团卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000429/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="SXWS2" tvg-name="山西卫视" tvg-logo="https://img.iptv2022.com/logo/sxws2.png" group-title="地方卫视-浙江",山西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776020/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NXWS" tvg-name="宁夏卫视" tvg-logo="https://img.iptv2022.com/logo/nxws.png" group-title="地方卫视-浙江",宁夏卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776710/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="GXWS" tvg-name="广西卫视" tvg-logo="https://img.iptv2022.com/logo/gxws.png" group-title="地方卫视-浙江",广西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776028/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="NMWS" tvg-name="内蒙古卫视" tvg-logo="https://img.iptv2022.com/logo/nmws.png" group-title="地方卫视-浙江",内蒙古卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000593/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="GSWS" tvg-name="甘肃卫视" tvg-logo="https://img.iptv2022.com/logo/gsws.png" group-title="地方卫视-浙江",甘肃卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000594/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JLWS" tvg-name="吉林卫视" tvg-logo="https://img.iptv2022.com/logo/jlws.png" group-title="地方卫视-浙江",吉林卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776032/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JYKT" tvg-name="金鹰卡通" tvg-logo="https://img.iptv2022.com/logo/jykt.png" group-title="青少频道-浙江",金鹰卡通
+http://124.90.44.40:6060/010/2/00000001000000060000000000000430/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="HHXD" tvg-name="哈哈炫动" tvg-logo="https://img.iptv2022.com/logo/hhxd.png" group-title="青少频道-浙江",哈哈炫动
+http://124.90.44.40:6060/010/2/00000001000000060000000000000431/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="KKSE" tvg-name="卡酷少儿" tvg-logo="https://img.iptv2022.com/logo/kkse.png" group-title="青少频道-浙江",卡酷少儿
+http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://img.iptv2022.com/logo/cgtn.png" group-title="CCTV-浙江",CGTN
+http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNSPANISH" tvg-name="CGTNSpanish" tvg-logo="https://img.iptv2022.com/logo/cgtnspanish.png" group-title="CCTV-浙江",CGTNSpanish
+http://124.90.44.40:6060/010/2/00000001000000060000000000000800/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNFRENCH" tvg-name="CGTNFrench" tvg-logo="https://img.iptv2022.com/logo/cgtnfrench.png" group-title="CCTV-浙江",CGTNFrench
+http://124.90.44.40:6060/010/2/00000001000000060000000000000801/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNARABIC" tvg-name="CGTNArabic" tvg-logo="https://img.iptv2022.com/logo/cgtnarabic.png" group-title="CCTV-浙江",CGTNArabic
+http://124.90.44.40:6060/010/2/00000001000000060000000000000802/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNRUSSIAN" tvg-name="CGTNRussian" tvg-logo="https://img.iptv2022.com/logo/cgtnrussian.png" group-title="CCTV-浙江",CGTNRussian
+http://124.90.44.40:6060/010/2/00000001000000060000000000000803/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJZS" tvg-name="浙江之声" tvg-logo="https://img.iptv2022.com/logo/zjzs.png" group-title="听浙江-浙江",浙江之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000481/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JJPD" tvg-name="经济频道" tvg-logo="https://img.iptv2022.com/logo/jjpd.png" group-title="听浙江-浙江",经济频道
+http://124.90.44.40:6060/010/2/00000001000000060000000000000483/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="YYTF" tvg-name="音乐调频" tvg-logo="https://img.iptv2022.com/logo/yytf.png" group-title="听浙江-浙江",音乐调频
+http://124.90.44.40:6060/010/2/00000001000000060000000000000484/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="MSZX" tvg-name="民生资讯" tvg-logo="https://img.iptv2022.com/logo/mszx.png" group-title="听浙江-浙江",民生资讯
+http://124.90.44.40:6060/010/2/00000001000000060000000000000488/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="JTZS" tvg-name="交通之声" tvg-logo="https://img.iptv2022.com/logo/jtzs.png" group-title="听浙江-浙江",交通之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000485/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CSZS" tvg-name="城市之声" tvg-logo="https://img.iptv2022.com/logo/cszs.png" group-title="听浙江-浙江",城市之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000487/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LYZS" tvg-name="旅游之声" tvg-logo="https://img.iptv2022.com/logo/lyzs.png" group-title="听浙江-浙江",旅游之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000486/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="ZJXWGB" tvg-name="浙江新闻广播" tvg-logo="https://img.iptv2022.com/logo/zjxwgb.png" group-title="听浙江-浙江",浙江新闻广播
+http://124.90.44.40:6060/010/2/00000001000000060000000000000482/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="" group-title="看4K-浙江",北京卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002865/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="" group-title="看4K-浙江",深圳卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002878/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="" group-title="看4K-浙江",广东卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002877/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="" group-title="看4K-浙江",东方卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002067/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="" group-title="看4K-浙江",湖南卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002069/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="" group-title="看4K-浙江",江苏卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002071/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="" group-title="看4K-浙江",浙江卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002065/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="" group-title="看4K-浙江",四川卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002075/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="" group-title="看4K-浙江",山东卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002073/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS1" tvg-name="测试1" tvg-logo="https://img.iptv2022.com/logo/ltcs1.png" group-title="测试频道-浙江",测试1
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS2" tvg-name="测试2" tvg-logo="https://img.iptv2022.com/logo/ltcs2.png" group-title="测试频道-浙江",测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002860/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS3" tvg-name="测试3" tvg-logo="https://img.iptv2022.com/logo/ltcs3.png" group-title="测试频道-浙江",测试3
+http://124.90.44.40:6060/010/2/01000010000000060000000000002831/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS4" tvg-name="测试4" tvg-logo="https://img.iptv2022.com/logo/ltcs4.png" group-title="测试频道-浙江",测试4
+http://124.90.44.40:6060/010/2/01000010000000060000000000002832/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS2B" tvg-name="测试5" tvg-logo="https://img.iptv2022.com/logo/ltcs2b.png" group-title="测试频道-浙江",测试5
+http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="LTCS7" tvg-name="测试6" tvg-logo="https://img.iptv2022.com/logo/ltcs7.png" group-title="测试频道-浙江",测试6
+http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="BJJSKJ" tvg-name="北京纪实科教" tvg-logo="https://img.iptv2022.com/logo/bjjskj.png" group-title="测试频道-浙江",北京纪实科教
+http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="FZTD" tvg-name="法治天地" tvg-logo="https://img.iptv2022.com/logo/fztd.png" group-title="测试频道-浙江",法治天地
+http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
+// test 2
+#EXTINF:-1 tvg-id="测试频道2" tvg-name="测试频道2" tvg-logo="" group-title="测试频道-浙江",测试频道2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002830?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="测试频道3" tvg-name="测试频道3" tvg-logo="" group-title="测试频道-浙江",测试频道3
+http://124.90.44.40:6060/010/2/01000010000000060000000000002831?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="测试频道4" tvg-name="测试频道4" tvg-logo="" group-title="测试频道-浙江",测试频道4
+http://124.90.44.40:6060/010/2/01000010000000060000000000002832?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="测试频道7" tvg-name="测试频道7" tvg-logo="" group-title="测试频道-浙江",测试频道7
+http://124.90.44.40:6060/010/2/01000010000000060000000000002835?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="爱看熊猫" tvg-name="爱看熊猫" tvg-logo="" group-title="测试频道-浙江",爱看熊猫
+http://124.90.44.40:6060/010/2/01000010000000060000000000002802?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="熊猫宝宝幼儿园" tvg-name="熊猫宝宝幼儿园" tvg-logo="" group-title="测试频道-浙江",熊猫宝宝幼儿园
+http://124.90.44.40:6060/010/2/01000010000000060000000000002803?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="大熊猫的一天" tvg-name="大熊猫的一天" tvg-logo="" group-title="测试频道-浙江",大熊猫的一天
+http://124.90.44.40:6060/010/2/01000010000000060000000000002804?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="测试频道2" tvg-name="测试频道2" tvg-logo="" group-title="测试频道-浙江",测试频道2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002860?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="测试频道1" tvg-name="测试频道1" tvg-logo="" group-title="测试频道-浙江",测试频道1
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859?virtualDomain=010.live_hls.zte.com
+//频道3 联通-2025-10-1
+#EXTINF:-1,浙江新闻高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000579?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,旅游之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000486?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江新闻广播
+http://124.90.44.40:6060/010/2/00000001000000060000000000000482?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,民生休闲高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,宁波综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江少儿高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,宁波生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,宁波都市高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,宁波影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,衢州一套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,好易购1高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000794?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,衢州二套高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,之江纪录高清
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,杭州综合高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,西湖明珠高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000783?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,杭州生活高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,绍兴一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,温州一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,杭州影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,卡酷少儿
+http://124.90.44.40:6060/010/2/01000010000000060000000000002854?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,青少体育高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,北京纪实科教
+http://124.90.44.40:6060/010/2/01000010000000060000000000002855?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,杭州导视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,法治天地
+http://124.90.44.40:6060/010/2/01000010000000060000000000002816?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试1
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央三套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002860?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,北京卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002865?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央四套
+http://124.90.44.40:6060/010/2/20002000000000010000000002765807?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,广东卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002877?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央五套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,深圳卫视4K
+http://124.90.44.40:6060/010/2/01000010000000060000000000002878?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,大熊猫的一天
+http://124.90.44.40:6060/010/2/01000010000000060000000000002804?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央六套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,爱看熊猫
+http://124.90.44.40:6060/010/2/01000010000000060000000000002802?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,熊猫宝宝幼儿园
+http://124.90.44.40:6060/010/2/01000010000000060000000000002803?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,新疆卫视高清
+http://124.90.44.40:6060/010/2/00000009000000060000000000002051?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央七套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,兵团卫视高清
+http://124.90.44.40:6060/010/2/00000009000000060000000000002055?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央八套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央纪录高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,宁夏卫视高清
+http://124.90.44.40:6060/010/2/00000009000000060000000000002053?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央科教高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,西藏卫视高清
+http://124.90.44.40:6060/010/2/00000009000000060000000000002057?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央戏曲
+http://124.90.44.40:6060/010/2/20002000000000010000000002750676?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,四川卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002075?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央十二高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,山东卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002073?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央新闻高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,东方卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002067?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央少儿高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,湖南卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002069?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央音乐
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,江苏卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002071?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央十七套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000799?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江卫视4K
+http://124.90.44.40:6060/010/2/00000009000000060000000000002065?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央奥运测试
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CCTV5高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,东方卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000478?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,湖南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000394?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,北京卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000449?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,江苏卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000450?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,安徽卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000459?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,深圳卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000393?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央二套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,天津卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000365?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,重庆卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000585?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,河南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000586?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,广东卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000395?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,山东卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000436?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,江西卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000587?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,贵州卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000584?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,四川卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000581?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,河北卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000582?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,东南卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000588?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,湖北卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000461?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,辽宁卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000583?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,黑龙江高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000462?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,金鹰卡通
+http://124.90.44.40:6060/010/2/00000001000000060000000000000430?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,云南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776036?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,海南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776012?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,青海卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002775980?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,陕西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776000?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,山西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776020?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,广西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776028?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,内蒙古卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000593?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,甘肃卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000594?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,吉林卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776032?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中国教育一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中国教育四套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CGTN
+http://124.90.44.40:6060/010/2/00000001000000060000000000000479?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CGTNSpanish
+http://124.90.44.40:6060/010/2/00000001000000060000000000000800?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CGTNFrench
+http://124.90.44.40:6060/010/2/00000001000000060000000000000801?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CGTNArabic
+http://124.90.44.40:6060/010/2/00000001000000060000000000000802?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,CGTNRussian
+http://124.90.44.40:6060/010/2/00000001000000060000000000000803?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000481?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002830?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试3
+http://124.90.44.40:6060/010/2/01000010000000060000000000002831?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试四
+http://124.90.44.40:6060/010/2/01000010000000060000000000002832?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,经济频道
+http://124.90.44.40:6060/010/2/00000001000000060000000000000483?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,联通测试7
+http://124.90.44.40:6060/010/2/01000010000000060000000000002835?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,中央一套高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江卫视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,音乐调频
+http://124.90.44.40:6060/010/2/00000001000000060000000000000484?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,民生资讯
+http://124.90.44.40:6060/010/2/00000001000000060000000000000488?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,钱江频道高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,城市之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000487?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,浙江经视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000572?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,交通之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000485?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1,教科影视高清
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576?virtualDomain=010.live_hls.zte.com
