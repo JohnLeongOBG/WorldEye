@@ -517,7 +517,7 @@ http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtua
 http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="ZJJL" tvg-name="之江纪录" tvg-logo="https://img.iptv2022.com/logo/zjjl.png" group-title="看浙江-浙江",之江纪录
 http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" "地方卫视-浙江",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="" group-title="地方卫视-浙江",东方卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-id="HNWS" tvg-name="湖南卫视" tvg-logo="https://img.iptv2022.com/logo/hnws.png" group-title="地方卫视-浙江",湖南卫视
 http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
