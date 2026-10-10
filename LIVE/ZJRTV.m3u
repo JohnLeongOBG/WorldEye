@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e2.xml.gz"
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="" group-title="CCTV-浙江",凤凰中文
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="" group-title="CCTV-浙江",凤凰资讯
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236197/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="" group-title="地方卫视-浙江",陕西卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228272//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="" group-title="CCTV-浙江",CCTV15
@@ -55,7 +59,7 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228339//index.m3u8?
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228342//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="" group-title="地方卫视-浙江",西藏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345//index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="CCTV-浙江-浙江",CCTV2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="" group-title="CCTV-浙江",CCTV2
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228348//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="" group-title="地方卫视-浙江",江苏卫视
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228351//index.m3u8?fmt=ts2hls
